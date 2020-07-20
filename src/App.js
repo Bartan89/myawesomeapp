@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Bart's utterly amazing app
+          Bart's utterly amazing app 2.0
         </a>
       </header>
     </div>
